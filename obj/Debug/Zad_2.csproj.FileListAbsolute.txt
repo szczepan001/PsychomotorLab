@@ -1,0 +1,10 @@
+D:\Visual studio\Projekty\Zad_2\bin\Debug\Zad_2.exe.config
+D:\Visual studio\Projekty\Zad_2\bin\Debug\Zad_2.exe
+D:\Visual studio\Projekty\Zad_2\bin\Debug\Zad_2.pdb
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.csproj.AssemblyReference.cache
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.Form1.resources
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.Properties.Resources.resources
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.csproj.GenerateResource.cache
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.csproj.CoreCompileInputs.cache
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.exe
+D:\Visual studio\Projekty\Zad_2\obj\Debug\Zad_2.pdb
